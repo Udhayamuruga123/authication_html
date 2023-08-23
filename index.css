@@ -1,0 +1,26 @@
+body{
+    .container{
+        text-align: center;
+        padding:4px;
+        margin: 430px;
+        border: 2px solid rgb(241, 238, 234);
+        background-color: rgb(206, 208, 163);
+    .iteam{
+        text-align: left;
+        }
+        color: rgb(10, 7, 10);
+
+}
+background-color: black;
+    width: 100%;
+  }
+  
+}
+.box{
+    display: flex;
+}
+p.hii {border-style: dotted;}
+h1{
+    text-align: center;
+    color: brown;
+}

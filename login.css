@@ -1,0 +1,40 @@
+body {
+  .container {
+    
+    
+    text-align: left;
+    border: 1px solid rgb(236, 232, 232);
+    padding: 5px;
+    margin: 450px;
+    background-color: rgb(206, 208, 163);
+    
+  }
+  [class*="col-"] {
+    width: 100%;
+  }
+  
+background-color: rgb(5, 3, 3);
+}
+.edit{
+  display: flex;
+}
+h1 {
+  text-align: center;
+  color:brown;
+}
+p{
+  color: rgb(8, 2, 2);
+}
+h2{
+  text-align: left;
+}
+h3{
+  text-align: left;
+}
+.instagram-box {
+  text-align: left;
+}
+.edit{
+  display: flex;
+  
+}
